@@ -55,10 +55,14 @@ O projeto consiste em duas classes principais:
 
 
 ### Como Executar
-Clone o repositório do projeto.
-Compile as classes Java.
-Execute a classe Contador e insira os dois números inteiros conforme solicitado.
-O programa validará os parâmetros e, se válidos, imprimirá a sequência de números.
+```sh
+Clone o repositório do projeto. https://github.com/Rutiele93/Dio-Desafio-Contador-de-Fluxo.git
+cd CONTROLEDEFLUXO
+```
+- Compile as classes Java.
+- Execute a classe Contador e insira os dois números inteiros conforme solicitado.
+- O programa validará os parâmetros e, se válidos, imprimirá a sequência de números.
+
 ### Exemplo de Uso
 Se você inserir 12 como o primeiro parâmetro e 30 como o segundo parâmetro:
 O programa imprimirá os números de 1 a 18.
